@@ -16,7 +16,7 @@ assignment/
 │   │   └── styles.scss
 │   └── index.html
 │
-├── build/
+├── dist/
 │   ├── css/
 │   │   └── styles.css
 │   ├── js/
@@ -54,7 +54,7 @@ To set up the project locally, follow these steps:
 
 4. Run Grunt to compile SCSS and JavaScript files:
     ```
-    grunt
+    grunt --force
     ```
 
 5. Open `dist/index.html` in a web browser to view the image gallery.
