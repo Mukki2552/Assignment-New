@@ -1,5 +1,7 @@
 # Project Setup and README
 
+# NOTE: Due to some restrictions on my computer. I couldn't install some packages. please user `grunt --force` to run this project
+
 ## Overview
 This project demonstrates how to create a responsive image gallery using HTML5, SCSS, and Vanilla JavaScript. The gallery incorporates lazy loading, grid structure, and image selection functionality without the use of external libraries or plugins. Grunt is used to compile SCSS and JavaScript files.
 
