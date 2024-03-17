@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Grunt
+Gruntfile.js
+gruntfile.js
+Gruntfile.coffee
+gruntfile.coffee

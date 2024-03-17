@@ -1,0 +1,28 @@
+{
+  "name": "grunt-sass",
+  "version": "1.1.0",
+  "description": "A Simple Grunt Sass Starter Template",
+  "author": "Mukesh ",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10.16.1"
+  },
+  "keywords": [
+    "grunt, sass"
+  ],
+  "devDependencies": {
+    "bootstrap": "^5.3.3",
+    "grunt": "^1.0.2",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-clean": "~2.0.0",
+    "grunt-contrib-concat": "^2.0.0",
+    "grunt-contrib-jshint": "~2.1.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^3.1.0",
+    "load-grunt-tasks": "^5.1.0",
+    "request": "^2.83.0",
+    "time-grunt": "^2.0.0"
+  }
+}
